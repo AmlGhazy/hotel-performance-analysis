@@ -48,6 +48,3 @@ The goal is to understand the key drivers of hotel performance such as pricing s
 - Data Modeling  
 - Data Visualization  
 
-
-**Aml Ghazy**  
-Data Analyst | Power BI Developer
