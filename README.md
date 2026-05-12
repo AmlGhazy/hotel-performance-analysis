@@ -1,4 +1,6 @@
-<img align="right" width="320" src="images/overview.png">
+<p align="center">
+  <img width="700" src="images/overview.png">
+</p>
 
 # 🏨 Hotel Performance Analysis Dashboard
 
