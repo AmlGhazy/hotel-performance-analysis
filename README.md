@@ -4,7 +4,6 @@
 
 # 🏨 Hotel Performance Analysis Dashboard
 
----
 
 ## 📊 Overview
 This project analyzes hotel performance using Power BI by building a structured data model that connects multiple datasets to generate actionable insights.
