@@ -48,5 +48,11 @@ The goal is to understand the key drivers of hotel performance such as pricing s
 ## 🛠️ Tools Used
 - Power BI  
 - Data Modeling  
-- Data Visualization  
+- Data Visualization
+  
+---
+
+## 🔗 Project Sharing
+
+👉 LinkedIn Case Study: https://www.linkedin.com/posts/aml-ghazy-b1a50b3a4_hotelmanagement-hospitalityindustry-hotelanalytics-ugcPost-7454551133848690688-8QxB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGMIDIYBHodAL2wtNlFwkDPUWM0DzigmRgk
 
